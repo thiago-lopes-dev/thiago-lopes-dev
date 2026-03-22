@@ -13,7 +13,7 @@
 
 **Full Stack Developer em formação**
 
-_JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux · DevOps & Cloud · Java_
+_Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux · DevOps & Cloud_
 
 <br/>
 
