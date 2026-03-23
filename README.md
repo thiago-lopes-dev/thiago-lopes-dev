@@ -141,7 +141,7 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-lopes-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)
 
-![Streak](https://streak-stats.demolab.com?user=thiago-lopes-de&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![Streak](https://streak-stats.demolab.com?user=thiago-lopes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
@@ -151,8 +151,8 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoloopes)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagolopes-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagolopes.aws@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://thiagoloopes.dev)
 
 <br/>
