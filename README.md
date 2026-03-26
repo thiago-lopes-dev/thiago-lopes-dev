@@ -1,13 +1,5 @@
 <div align="center">
 
-`streak_days=0`
-
-</div>
-
----
-
-<div align="center">
-
 ```
 ████████╗██╗  ██╗██╗ █████╗  ██████╗  ██████╗
 ╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗
@@ -74,6 +66,8 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 ## `$ ls ./projects --labs`
 
 <div align="center">
+
+**Cloud, Infra & DevOps**
 
 <a href="https://gitlab.com/thiago.java">
   <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
