@@ -63,6 +63,20 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 ---
 
+## `$ ls ./projects`
+
+<div align="center">
+
+<a href="https://gitlab.com/thiago.java">
+  <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
 ## `$ ls ./projects --pinned`
 
 <br/>
@@ -159,12 +173,4 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 </div>
 
----
-
-<!-- GitLab Button -->
-<a href="https://gitlab.com/thiago.java">
-  <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>
-
-<br/><br/>
 ---
