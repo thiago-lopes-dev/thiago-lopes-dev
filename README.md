@@ -89,10 +89,11 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `Node.js` `Express` `PostgreSQL` `Docker` `JWT`
 
-<a href="https://github.com/thiago-lopes-dev/backend-node-modular" 
-   style="background-color:#0d1117;color:white;padding:8px 16px;text-decoration:none;border-radius:6px;font-weight:bold;">
-  Hello World
+<a href="https://github.com/thiago-lopes-dev/backend-node-modular"
+   style="background-color:#0d1117; color:#0d1117; padding:4px 10px; text-decoration:none; border-radius:4px; font-size:12px; font-weight:bold;">
+   Hello World
 </a>
+
 ---
 
 ### ◆ &nbsp;[`project-02`] &nbsp;**Deploy Automático na AWS com Docker**
