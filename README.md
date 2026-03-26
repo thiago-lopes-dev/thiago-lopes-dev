@@ -168,7 +168,6 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 <br/><br/>
 
-<!-- GitLab "Streak" (simulado estilo badge) -->
-<img src="https://img.shields.io/badge/GitLab_Streak-Active-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+![GitLab Projects](https://img.shields.io/badge/dynamic/json?color=FC6D26&label=GitLab%20Projects&query=length&url=https://gitlab.com/api/v4/users/thiago.java/projects&style=for-the-badge&logo=gitlab)
 
 ---
