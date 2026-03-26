@@ -18,14 +18,7 @@ jobs:
 
           DATA=$(curl -s https://github-contributions-api.jogruber.de/v4/thiago-lopes-dev)
 
-          STREAK=$(echo $DATA | jq '
-            .contributions | reverse |
-            reduce .[] as $day (0;
-              if $day.count > 0 then . + 1
-              else break
-              end
-            )
-          ')
+          STREAK=$(echo $DATA | jq '.currentStreak')
 
           echo "STREAK=$STREAK" >> $GITHUB_ENV
 
