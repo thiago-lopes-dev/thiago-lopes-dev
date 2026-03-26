@@ -1,6 +1,3 @@
-<p align="center">GitHub Streak (Daily Contributions)</p>
----
-
 <div align="center">
 
 ```
