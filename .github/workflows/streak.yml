@@ -1,0 +1,42 @@
+name: Update Real Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate streak
+        run: |
+          sudo apt-get install -y jq
+
+          DATA=$(curl -s https://github-contributions-api.jogruber.de/v4/thiago-lopes-dev)
+
+          STREAK=$(echo $DATA | jq '
+            .contributions | reverse |
+            reduce .[] as $day (0;
+              if $day.count > 0 then . + 1
+              else break
+              end
+            )
+          ')
+
+          echo "STREAK=$STREAK" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/streak_days=[0-9]*/streak_days=$STREAK/" README.md
+
+      - name: Commit
+        run: |
+          git config --global user.name "streak-bot"
+          git config --global user.email "bot@github.com"
+          git add README.md
+          git commit -m "update streak" || echo "no changes"
+          git push
