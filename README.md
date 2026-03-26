@@ -63,7 +63,7 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 ---
 
-## `$ ls ./projects`
+## `$ ls ./projects --labs`
 
 <div align="center">
 
