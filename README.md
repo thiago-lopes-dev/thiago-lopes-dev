@@ -11,6 +11,8 @@
 
 ### `> Thiago Löpes`
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://thiagoloopes.dev)
+
 **Full Stack Developer em formação**
 
 _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux · DevOps & Cloud_
